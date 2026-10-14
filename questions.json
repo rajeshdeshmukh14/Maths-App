@@ -1,0 +1,626 @@
+[
+[
+5,
+"Fractions",
+"1/2 + 1/4 = ?",
+[
+"3/4",
+"2/6",
+"1/6",
+"2/4"
+],
+0,
+"1/2 = 2/4, so 2/4 + 1/4 = 3/4."
+],
+[
+5,
+"Decimals",
+"0.5 + 0.25 = ?",
+[
+"0.75",
+"0.30",
+"0.55",
+"7.5"
+],
+0,
+"Line up decimal points: 0.50 + 0.25 = 0.75."
+],
+[
+5,
+"Perimeter",
+"Perimeter of a rectangle 8 cm by 5 cm?",
+[
+"13 cm",
+"26 cm",
+"40 cm",
+"36 cm"
+],
+1,
+"2 × (8 + 5) = 26 cm."
+],
+[
+5,
+"LCM",
+"LCM of 4 and 6?",
+[
+"12",
+"24",
+"10",
+"2"
+],
+0,
+"Multiples of 4: 4, 8, 12. Multiples of 6: 6, 12. First common is 12."
+],
+[
+5,
+"Fractions",
+"3/5 of 20 = ?",
+[
+"12",
+"15",
+"8",
+"10"
+],
+0,
+"20 ÷ 5 = 4, then 4 × 3 = 12."
+],
+[
+5,
+"Measurement",
+"2.5 kg in grams?",
+[
+"250 g",
+"2500 g",
+"25 g",
+"25000 g"
+],
+1,
+"1 kg = 1000 g, so 2.5 × 1000 = 2500 g."
+],
+[
+6,
+"Integers",
+"−5 + 8 = ?",
+[
+"3",
+"−3",
+"13",
+"−13"
+],
+0,
+"Start at −5 and move 8 right: 3."
+],
+[
+6,
+"HCF",
+"HCF of 12 and 18?",
+[
+"3",
+"6",
+"36",
+"2"
+],
+1,
+"Common factors: 1, 2, 3, 6. Highest is 6."
+],
+[
+6,
+"Ratio",
+"Divide 40 in the ratio 3:5.",
+[
+"15 and 25",
+"20 and 20",
+"10 and 30",
+"12 and 28"
+],
+0,
+"3+5 = 8 parts; 40 ÷ 8 = 5. So 15 and 25."
+],
+[
+6,
+"Algebra",
+"x + 7 = 15. Find x.",
+[
+"22",
+"8",
+"7",
+"9"
+],
+1,
+"x = 15 − 7 = 8."
+],
+[
+6,
+"Geometry",
+"Sum of angles of a triangle?",
+[
+"90°",
+"180°",
+"360°",
+"270°"
+],
+1,
+"Always 180°."
+],
+[
+6,
+"Decimals",
+"3.2 × 0.5 = ?",
+[
+"1.6",
+"16",
+"0.16",
+"6.4"
+],
+0,
+"Half of 3.2 is 1.6."
+],
+[
+7,
+"Integers",
+"(−3) × (−4) = ?",
+[
+"−12",
+"12",
+"−7",
+"7"
+],
+1,
+"Negative × negative = positive."
+],
+[
+7,
+"Algebra",
+"2x + 3 = 11. Find x.",
+[
+"4",
+"5",
+"7",
+"3"
+],
+0,
+"2x = 8, so x = 4."
+],
+[
+7,
+"Percentage",
+"20% of 150 = ?",
+[
+"20",
+"30",
+"25",
+"3"
+],
+1,
+"150 × 20/100 = 30."
+],
+[
+7,
+"Triangles",
+"Two angles of a triangle are 50° and 60°. Third angle?",
+[
+"70°",
+"80°",
+"60°",
+"110°"
+],
+0,
+"180 − 110 = 70°."
+],
+[
+7,
+"Exponents",
+"2³ × 2² = ?",
+[
+"2⁶",
+"2⁵",
+"4⁵",
+"2¹"
+],
+1,
+"Add the powers: 2^(3+2) = 2⁵."
+],
+[
+7,
+"Area",
+"Area of a triangle, base 10, height 6?",
+[
+"60",
+"30",
+"16",
+"15"
+],
+1,
+"½ × 10 × 6 = 30."
+],
+[
+8,
+"Identities",
+"(a + b)² = ?",
+[
+"a² + b²",
+"a² + 2ab + b²",
+"a² − 2ab + b²",
+"2a + 2b"
+],
+1,
+"Expand (a+b)(a+b)."
+],
+[
+8,
+"Squares",
+"√144 = ?",
+[
+"12",
+"14",
+"72",
+"11"
+],
+0,
+"12 × 12 = 144."
+],
+[
+8,
+"Linear equations",
+"3x − 5 = 10. Find x.",
+[
+"5",
+"3",
+"15",
+"4"
+],
+0,
+"3x = 15, so x = 5."
+],
+[
+8,
+"Cubes",
+"Cube of 4?",
+[
+"12",
+"16",
+"64",
+"48"
+],
+2,
+"4 × 4 × 4 = 64."
+],
+[
+8,
+"Profit & loss",
+"CP = ₹200, SP = ₹250. Profit %?",
+[
+"25%",
+"20%",
+"50%",
+"30%"
+],
+0,
+"Profit 50 ÷ 200 × 100 = 25%."
+],
+[
+8,
+"Mensuration",
+"Area of circle, r = 7 (π = 22/7)?",
+[
+"44",
+"154",
+"49",
+"308"
+],
+1,
+"(22/7) × 7 × 7 = 154."
+],
+[
+9,
+"Polynomials",
+"Degree of 3x⁴ + 2x² − 5?",
+[
+"2",
+"4",
+"3",
+"5"
+],
+1,
+"Highest power of x is 4."
+],
+[
+9,
+"Coordinates",
+"Point (3, 4) lies in which quadrant?",
+[
+"I",
+"II",
+"III",
+"IV"
+],
+0,
+"Both x and y positive: quadrant I."
+],
+[
+9,
+"Factorisation",
+"Factorise x² − 9.",
+[
+"(x − 3)²",
+"(x + 3)(x − 3)",
+"(x + 9)(x − 1)",
+"(x − 9)(x + 1)"
+],
+1,
+"a² − b² = (a + b)(a − b)."
+],
+[
+9,
+"Pythagoras",
+"Right triangle, legs 6 and 8. Hypotenuse?",
+[
+"14",
+"10",
+"12",
+"9"
+],
+1,
+"√(36 + 64) = 10."
+],
+[
+9,
+"Number systems",
+"Which is irrational?",
+[
+"0.5",
+"√2",
+"3/4",
+"0.25"
+],
+1,
+"√2 cannot be written as p/q."
+],
+[
+9,
+"Statistics",
+"Mean of 2, 4, 6, 8?",
+[
+"4",
+"5",
+"6",
+"20"
+],
+1,
+"Sum 20 ÷ 4 = 5."
+],
+[
+10,
+"Quadratics",
+"Roots of x² − 5x + 6 = 0?",
+[
+"2 and 3",
+"−2 and −3",
+"1 and 6",
+"−1 and −6"
+],
+0,
+"(x − 2)(x − 3) = 0."
+],
+[
+10,
+"Trigonometry",
+"sin 30° = ?",
+[
+"1/2",
+"√3/2",
+"1",
+"0"
+],
+0,
+"Standard value: 1/2."
+],
+[
+10,
+"AP",
+"AP: 2, 5, 8, … Find the 10th term.",
+[
+"29",
+"32",
+"27",
+"30"
+],
+0,
+"a + 9d = 2 + 27 = 29."
+],
+[
+10,
+"Trigonometry",
+"sin²θ + cos²θ = ?",
+[
+"0",
+"1",
+"2",
+"tan θ"
+],
+1,
+"Fundamental identity."
+],
+[
+10,
+"Probability",
+"Probability of a prime on a die?",
+[
+"1/2",
+"1/3",
+"2/3",
+"1/6"
+],
+0,
+"Primes: 2, 3, 5 → 3/6 = 1/2."
+],
+[
+10,
+"Quadratics",
+"x² + 4x + 4 = 0 has…",
+[
+"Two distinct real roots",
+"Equal real roots",
+"No real roots",
+"Cannot say"
+],
+1,
+"D = 16 − 16 = 0, so equal roots."
+],
+[
+5,
+"Factors and Multiples",
+"Which is a prime number?",
+[
+"21",
+"29",
+"33",
+"39"
+],
+1,
+"29 has only two factors: 1 and 29."
+],
+[
+5,
+"Time",
+"2 hours 30 minutes = ? minutes",
+[
+"130",
+"150",
+"230",
+"250"
+],
+1,
+"2 × 60 + 30 = 150."
+],
+[
+6,
+"Playing with Numbers",
+"Which number is divisible by 9?",
+[
+"235",
+"729",
+"512",
+"301"
+],
+1,
+"Digit sum 7 + 2 + 9 = 18, which is divisible by 9."
+],
+[
+6,
+"Mensuration",
+"Area of a square of side 9 cm?",
+[
+"36 cm²",
+"81 cm²",
+"18 cm²",
+"72 cm²"
+],
+1,
+"9 × 9 = 81 cm²."
+],
+[
+7,
+"Simple Equations",
+"5x = 35. Find x.",
+[
+"7",
+"30",
+"40",
+"5"
+],
+0,
+"x = 35 ÷ 5 = 7."
+],
+[
+7,
+"Rational Numbers",
+"−3/4 + 1/4 = ?",
+[
+"−1/2",
+"−1",
+"1/2",
+"−2"
+],
+0,
+"(−3 + 1)/4 = −2/4 = −1/2."
+],
+[
+8,
+"Algebraic Expressions",
+"(x + 2)(x + 3) = ?",
+[
+"x² + 5x + 6",
+"x² + 6",
+"x² + 5x + 5",
+"x² + 6x + 5"
+],
+0,
+"x² + 3x + 2x + 6 = x² + 5x + 6."
+],
+[
+8,
+"Exponents and Powers",
+"2⁻³ = ?",
+[
+"1/8",
+"−8",
+"−6",
+"1/6"
+],
+0,
+"2⁻³ = 1/2³ = 1/8."
+],
+[
+9,
+"Linear Equations in Two Variables",
+"Which pair is a solution of x + y = 5?",
+[
+"(2, 3)",
+"(1, 3)",
+"(4, 2)",
+"(0, 4)"
+],
+0,
+"2 + 3 = 5."
+],
+[
+9,
+"Surface Areas and Volumes",
+"Volume of a cube of side 3 cm?",
+[
+"9 cm³",
+"27 cm³",
+"18 cm³",
+"54 cm³"
+],
+1,
+"3 × 3 × 3 = 27 cm³."
+],
+[
+10,
+"Real Numbers",
+"HCF of 6 and 20?",
+[
+"2",
+"4",
+"6",
+"10"
+],
+0,
+"6 = 2 × 3 and 20 = 2² × 5. Common factor: 2."
+],
+[
+10,
+"Coordinate Geometry",
+"Distance between (0, 0) and (3, 4)?",
+[
+"5",
+"7",
+"4",
+"3"
+],
+0,
+"√(3² + 4²) = √25 = 5."
+]
+]
